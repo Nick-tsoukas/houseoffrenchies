@@ -1,6 +1,5 @@
 <template>
     <div>
-        <h1>Hero</h1>
-        <img src="dog.jpeg" alt="dog">
+        <img src="dog.jpeg" class="h-[100vh] w-screen" alt="dog">
     </div>
 </template>
